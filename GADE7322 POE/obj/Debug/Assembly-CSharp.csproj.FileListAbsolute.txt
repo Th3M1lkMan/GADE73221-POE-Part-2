@@ -1,0 +1,2 @@
+C:\Users\ggnig\GADE7322 POE\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\ggnig\GADE7322 POE\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
